@@ -28,8 +28,6 @@
 
 usage.md
 
-md
-複製程式碼
 # Using Your Watch
 
 ## Basic Navigation

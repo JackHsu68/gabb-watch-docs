@@ -1,5 +1,3 @@
 # About Your Watch
-Front
-gabb-watch-docs/images/watch-front.png
-Back
-gabb-watch-docs/images/watch-Back.png
+![Front view of Gabb Watch](images/watch-front.png)
+![Back view of Gabb Watch](images/watch-Back.png)

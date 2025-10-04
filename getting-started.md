@@ -3,8 +3,10 @@
 ## Charging the Gabb Watch 3 Wirelessly
 1. Use a **5V/1A charging block** with your magnetic charger.  
 2. Place your watch on the wireless charging cable and align properly.  
-3. Check the charging icon on your watch to verify charging.  
-4. Wait until it shows 100% charged.
+3. Check the charging icon on your watch to verify charging.
+<img width="187" height="163" alt="Watch-Charging" src="https://github.com/user-attachments/assets/3986d648-e653-4313-8f70-e7b5e94680e2" />
+5. Wait until it shows 100% charged.
+<img width="203" height="172" alt="Watch-Charging full" src="https://github.com/user-attachments/assets/7dc4810b-1b03-4143-b6fc-0febc8dfa51b" />
 
 ⚠️ Notes:
 - Only use the supplied wireless charging cable for best results.  
@@ -14,8 +16,10 @@
 ---
 
 ## Turning Your Watch On/Off
-- **Power On**: Press and hold the power button until the logo shows up.  
-- **Power Off**: Press and hold again until "Power off?" appears → tap to confirm.  
+- **Power On**: Press and hold the power button until the logo shows up.
+<img width="335" height="163" alt="Watch-Turning On" src="https://github.com/user-attachments/assets/8bc07dcd-c4ac-490d-8897-0b71d9bc307b" />
+- **Power Off**: Press and hold again until "Power off?" appears → tap to confirm.
+<img width="144" height="168" alt="Watch-Turning Off" src="https://github.com/user-attachments/assets/4549b79f-ff63-4cb0-a002-e98fae5bdc64" />
 usage.md
 
 md

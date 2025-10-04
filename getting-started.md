@@ -26,7 +26,6 @@
   
 <img width="144" height="168" alt="Watch-Turning Off" src="https://github.com/user-attachments/assets/4549b79f-ff63-4cb0-a002-e98fae5bdc64" />
 
-usage.md
 
 # Using Your Watch
 

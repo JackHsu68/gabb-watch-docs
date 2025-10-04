@@ -3,6 +3,7 @@ To activate your Gabb Watch 3, please go to www.gabb.com/activate.
 # 2. Download the MyGabb App on Parent’s Smartphone 
 To complete the device setup, make sure you have access to a reliable wireless network. 
 Then, follow the instructions below to pair your watch with the app.
+
 a. Download the MyGabb App on your phone. If your phone runs on Android, downloadthe app from the Google Play Store; if your phone runs on iOS, download the app        
 from the Apple App Store (data usage may apply). The app is necessary to pair with the watch to set up GPS location tracking, SOS functionality and more.
 

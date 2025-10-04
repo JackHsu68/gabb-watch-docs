@@ -2,3 +2,4 @@
 ** Front View
 images/Watch-Back.png
 ** Back view
+images/Watch-front.png
